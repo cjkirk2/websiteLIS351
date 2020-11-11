@@ -1,0 +1,21 @@
+
+body {
+    background-color:lightgreen;
+    margin:20px 20px 20px 20px;
+}
+
+h1 {
+   font-family:Georgia, serif;
+   text-align:center;
+}
+
+
+p {
+   font-family:Arial, Helvetica, sans-serif;
+}
+
+
+h2 {
+   font-family:Arial, Helvetica, sans-serif;
+   padding: 5px;
+}
